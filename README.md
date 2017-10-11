@@ -1,2 +1,2 @@
 # weixin_bluelight_study
-通过项目学习微信
+通airkiss过项目学习微信公众平台相关
